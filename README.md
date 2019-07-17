@@ -8,5 +8,5 @@
 + 第三點
 <hr>
 ###連結的使用
-https://guides.github.com/features/mastering-markdown/ - automatic!
+https://guides.github.com/features/mastering-markdown/
 [ 如何溝通資料：輕量級標記式語言 ](https://medium.com/datainpoint/communicating-md-e53a08e6652f)
